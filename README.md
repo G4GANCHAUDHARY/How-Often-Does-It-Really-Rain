@@ -26,3 +26,7 @@ First the data is loaded into python using these csv files as numpy array then w
 
 # Result
 ![plot](https://user-images.githubusercontent.com/93081077/146894489-c735d88a-1f53-4356-b51b-114f1bd88d72.png)
+
+# General Trends 
+1. The maximum percentage time of precipitation lies between 30%-40% if the average threshold value for the rainfall intensity is 0.02mm/hr. 
+2. Precipitation occurs more over the oceanic regions where there is an abundant supply of water.
