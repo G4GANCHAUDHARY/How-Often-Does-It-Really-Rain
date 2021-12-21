@@ -13,15 +13,15 @@ The answer to the question” How often does its rain?” has been tried to be d
 
 # Data
 DATA SOURCE - https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview
-HORIZONTAL COVERAGE	                      Global 
-HORIZONTAL RESOLUTION	                    Reanalysis: 0.250 * 0.250 
-TEMPORAL COVERAGE	                        1998 to 2018 
-TEMPORAL RESOLUTION	                      Hourly 
-FILE FORMAT	                              netCDF
+
+1. HORIZONTAL COVERAGE	                      Global 
+2. HORIZONTAL RESOLUTION	                    Reanalysis: 0.250 * 0.250 
+3. TEMPORAL COVERAGE	                        1998 to 2018 
+4. TEMPORAL RESOLUTION	                      Hourly 
+5. FILE FORMAT	                              netCDF
 
 # PLOTTING THE MAP  
-Using these csv files, a plot is made by using the matplotlib library. 
-First the data is loaded into python using these csv files as numpy array then we used the “basemap” module in matlplotlib in order to create the plot.
+Using these csv files, a plot is made by using the matplotlib library. First the data is loaded into python using these csv files as numpy array then used the “basemap” module in matlplotlib in order to create the plot.
 
 
 # Result
