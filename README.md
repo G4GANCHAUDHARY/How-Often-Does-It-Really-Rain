@@ -30,3 +30,5 @@ Using these csv files, a plot is made by using the matplotlib library. First the
 # General Trends 
 1. The maximum percentage time of precipitation lies between 30%-40% if the average threshold value for the rainfall intensity is 0.02mm/hr. 
 2. Precipitation occurs more over the oceanic regions where there is an abundant supply of water.
+
+# Github Link: https://github.com/G4GANCHAUDHARY/How-Often-Does-It-Really-Rain
